@@ -1,1 +1,3 @@
 # Portfolio-2-Linear-regression-model
+#The goal of the second portfolio is to reproduce some work on predicting the energy usage of a house based on Internet of Things (IoT) measurements of temperature and humidity and weather observations. An exploration of the data showing the distribution of values of variables that matches some of the plots shown in the first part of the paper.
+#Fitting a linear model to the data and generating evaluation metrics (mean squared error, R2). Use the sklearn RFE function to apply Recursive Feature Estimation to the data to select the best features, compare with the results described in the paper for the same operation.
